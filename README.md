@@ -7,5 +7,5 @@ Después de realizar el BUSCO2 para la anotación estructural de los genomas se 
 
 Seguidamente, después de obtener los archivos del OrthoMCL lo que hicimos fue crear la base de datos relacional con el script titulado bibliotecas_orthogrupos.py. Los archivos correspondientes a los resultados son:  
 - GFF3 
-- Ortólogos 
+- Ortólogos: correspondientes a los archivos proteinsTokyo1MappedToGroups.txt, proteinsHYR1MappedToGroups.txt y proteinsNH1LMappedToGroups.txt
 - Base de datos relacional: corresponde al archivo llamado biblioteca_ortho.
