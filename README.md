@@ -1,4 +1,4 @@
-# TFG-BIOTECNOLOGIA-
+# TFG-BIOTECNOLOGIA
 Recopilación, análisis e integración de la información genómica disponible para el organismo modelo Brachionus plicatilis  
 Se adjuntan varios archivos correspondientes al material y métodos realizados (scripts de python) y a los resultados del TFG. 
 
