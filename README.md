@@ -10,4 +10,4 @@ Los archivos correspondientes a los resultados son:
 
 - Resultado de los grupos de ortólogos: se encuentran en la carpeta proteinsMappedtoGroups
 
-- Base de datos relacional: corresponde al archivo llamado biblioteca_ortho.
+- Base de datos relacional: corresponde a la carpeta llamado biblioteca_orthogroups. En ella está el archivo de la base de datos relacional incluyendo y el script de python utilizado para crearla.
