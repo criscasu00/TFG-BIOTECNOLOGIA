@@ -7,5 +7,7 @@ Después de realizar el BUSCO2 para la anotación estructural de los genomas se 
 
 Los archivos correspondientes a los resultados son:  
 - Resultados de BRAKER2: se encuentran en 3 carpetas comprimidas. Dentro de cada una están los resultados de los tres genomas tanto de los genes predichos (carpeta RESULTADOS_BRAKER2_NT.zip) como de las proteinas predichas (carpeta RESULTADOS_BRAKER2_PROT.zip) y de los archivos GFF3 (carpeta RESULTADOS_BRAKER2_GFF3.zip).
-- Resultado de los grupos de ortólogos: correspondientes a los archivos proteinsTokyo1MappedToGroups.txt, proteinsHYR1MappedToGroups.txt y proteinsNH1LMappedToGroups.txt
+
+- Resultado de los grupos de ortólogos: se encuentran en la carpeta proteinsMappedtoGroups
+
 - Base de datos relacional: corresponde al archivo llamado biblioteca_ortho.
